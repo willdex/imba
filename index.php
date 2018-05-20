@@ -44,6 +44,35 @@
 		<!-- Responsive CSS -->
 		<link rel="stylesheet" href="css/theme-responsive.css" />
 
+		<!--FUENTES-->
+		<link rel="stylesheet" href="css/fuentes.css">
+
+
+
+
+		<!--favicon-->
+		
+<link rel="apple-touch-icon" sizes="57x57" href="img/imba/favicon/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/img/imba/favicon/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/img/imba/favicon/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/img/imba/favicon/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/img/imba/favicon/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/img/imba/favicon/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/img/imba/favicon/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/img/imba/favicon/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/img/imba/favicon/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/img/imba/favicon/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/img/imba/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/img/imba/favicon/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="img/imba/favicon/favicon-16x16.png">
+<link rel="manifest" href="/img/imba/favicon/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="img/imba/favicon/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="shortcut icon" type="image/png" href="img/imba/favicon/favicon-16x16.png"/>
+<link rel="shortcut icon" type="image/x-icon" href="img/imba/favicon/favicon-16x16.png"/>
+		<!---->
+
 		<!-- Head Libs -->
 		<script src="vendor/modernizr.js"></script>
 
@@ -74,7 +103,7 @@
 					</button>
 				</div>
 				<div class="navbar-collapse nav-main-collapse collapse">
-					<div class="container" style="width: 600px;">
+					<div class="container" style="width: 900px;">
 
 						<!--div class="social-icons">
 							<ul class="social-icons">
@@ -94,10 +123,10 @@
 								<li>
 									<a data-hash href="#nosotros">NOSOTROS</a>
 								</li>
+
 						<li id="logcenter">
 							
-							<img alt="Porto" width="125" height="84" data-sticky-width="82" data-sticky-height="50" src="img/imba/logo1.png" style="margin-top: 30px; ">
-					
+				<img alt="Porto" width="325" height="200px" data-sticky-width="82" data-sticky-height="50" src="imagenes/imbalogo.png" style="/* margin-top: 30px; */">					
 						</li>
 								<li>
 									<a data-hash href="#recetas">RECETAS</a>
@@ -143,7 +172,7 @@
 										data-forcerewind="on">
 
 										<video class="video-js vjs-default-skin" autoplay loop poster="img/slides/men-in-black.jpg" style="width: 100%;">
-											<source src="img/imba/home.mp4"  type='video/mp4;  codecs="avc1.42E01E, mp4a.40.2"'>
+											<source src="img/imba/imbavideo.mp4"  type='video/mp4;  codecs="avc1.42E01E, mp4a.40.2"'>
 											<source src="video/men-in-black.ogv"  type='video/ogg;  codecs="theora, vorbis"'>
 										</video>
 
@@ -781,17 +810,17 @@
 						</div>
 						<div class="col-md-6">
 							<div class="contact-details">
-								<h4>Contact Us</h4>
+								<h4>Contactáctenos</h4>
 								<ul class="contact">
-									<li><p><i class="icon icon-map-marker"></i> <strong>Address:</strong> 1234 Street Name, City Name, United States</p></li>
-									<li><p><i class="icon icon-phone"></i> <strong>Phone:</strong> (123) 456-7890</p></li>
-									<li><p><i class="icon icon-envelope"></i> <strong>Email:</strong> <a href="mailto:mail@example.com">mail@example.com</a></p></li>
+									<li><p><i class="icon icon-map-marker"></i> <strong>Dirección:</strong> Parque Industrial - Mzn 30</p></li>
+									<li><p><i class="icon icon-phone"></i> <strong>Telefono:</strong> (591) 4 4434500</p></li>
+									<li><p><i class="icon icon-envelope"></i> <strong>Email:</strong> <a href="mailto:mail@example.com">marketing@imba.com.bo</a></p></li>
 								</ul>
 							</div>
 						</div>
 						<div class="col-md-6">
 						<center>
-							<h4>Follow Us</h4>
+							<h4>Síguenos en Nuestras Redes</h4>
 							<div class="social-icons">
 								<ul class="social-icons">
 									<li class="facebook"><a href="http://www.facebook.com/" target="_blank" data-placement="bottom" rel="tooltip" title="Facebook">Facebook</a></li>
@@ -812,7 +841,7 @@
 								</a>
 							</div>
 							<div class="col-md-7">
-								<p>© Copyright 2014. All Rights Reserved.</p>
+								<p>© Copyright 2018. Todos los Derechos Reservados.</p>
 							</div>
 
 						</div>

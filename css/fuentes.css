@@ -1,0 +1,44 @@
+@font-face{
+
+	font-family: futura;
+	src:url(fuentes/Futura/futurah1.ttf);
+}
+
+@font-face{
+
+	font-family: futuratitulo;
+	src:url(fuentes/Futura/futurah1bold.ttf);
+}
+
+h2{
+	font-family: futuratitulo;
+
+}
+
+
+p{
+	font-family: futura;
+
+}
+
+header.flat-menu nav ul.nav-main li.active > a {
+	font-family: futura;
+
+
+}
+
+header.flat-menu nav ul.nav-main li a{ 
+	font-family: futura;
+
+
+}
+
+.nav-pills>li>a {
+font-family: futura;
+
+}
+
+h4{
+	font-family: futuratitulo;
+
+}

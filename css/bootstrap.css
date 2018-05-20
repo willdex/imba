@@ -66,6 +66,7 @@ sub {
 }
 img {
 	border:0
+	z-index: 3;
 }
 svg:not(:root) {
 	overflow:hidden
@@ -253,6 +254,7 @@ figure {
 }
 img {
 	vertical-align:middle
+	position:initial;
 }
 
 

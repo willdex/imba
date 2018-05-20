@@ -228,7 +228,9 @@ header nav ul.nav-main {
 }
 
 header nav ul.nav-main > li + li {
-	margin-left: -4px;
+    position: relative;
+    z-index: 3;
+    height: 150px;
 }
 
 header nav ul.nav-main .dropdown-submenu {
